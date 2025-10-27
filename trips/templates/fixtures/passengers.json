@@ -1,0 +1,52 @@
+[
+  {
+    "model": "trips.passenger",
+    "pk": 1,
+    "fields": {
+      "name": "Rahim",
+      "eid": "EID001",
+      "balance": "150.00",
+      "is_onboard": false
+    }
+  },
+  {
+    "model": "trips.passenger",
+    "pk": 2,
+    "fields": {
+      "name": "Karim",
+      "eid": "EID002",
+      "balance": "120.00",
+      "is_onboard": false
+    }
+  },
+  {
+    "model": "trips.passenger",
+    "pk": 3,
+    "fields": {
+      "name": "Sumi",
+      "eid": "EID003",
+      "balance": "200.00",
+      "is_onboard": false
+    }
+  },
+  {
+    "model": "trips.passenger",
+    "pk": 4,
+    "fields": {
+      "name": "Rina",
+      "eid": "EID004",
+      "balance": "180.00",
+      "is_onboard": false
+    }
+  },
+  {
+    "model": "trips.passenger",
+    "pk": 5,
+    "fields": {
+      "name": "Jamal",
+      "eid": "EID005",
+      "balance": "100.00",
+      "is_onboard": false
+    }
+  }
+]
