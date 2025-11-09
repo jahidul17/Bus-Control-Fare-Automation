@@ -1,3 +1,7 @@
+{% comment %} python manage.py loaddata trips/templates/fixtures/passengers.json {% endcomment %}
+
+{% comment %} above line for load json data {% endcomment %}
+
 [
   {
     "model": "trips.passenger",
